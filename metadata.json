@@ -1,0 +1,10 @@
+{
+  "name": "Remix: BedWarsWeb",
+  "description": "An indie voxel 3D Minecraft BedWars-inspired web multiplayer game featuring persistent accounts, live real-time matchmaking, lobby voice chat streaming, list of friends, and customized audio/visual effects.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
